@@ -3,7 +3,7 @@ layout: default
 title: "How to contact Taco"
 ---
 
-Have a problem, question, or idea? Here's 4 ways to reach Troy and Jordan at Taco. We'll respond within 2 business days, often faster.
+Have a problem, question, or idea? Here's 4 ways to reach [Troy](https://twitter.com/troyd) and [Jordan](https://twitter.com/fixie) at Taco. We'll respond within 2 business days, often faster.
 
 ### 1. Within Taco itself
 
