@@ -1,6 +1,6 @@
 # Site title and subtitle. This is used in _includes/header.html
-title: 'jekyll-docs-template'
-subtitle: 'Painless documentation for your projects'
+title: 'help.tacoapp.com'
+subtitle: 'Nowhere near everything you might want to know about Taco.'
 
 # Enable/show navigation. There are there options:
 #   0 - always hide
@@ -13,11 +13,11 @@ codeurl: 'https://github.com/bruth/jekyll-docs-template'
 
 # Default categories (in order) to appear in the navigation
 sections: [
-    ['doc', 'Documentation'],
-    ['tut', 'Tutorial'],
-    ['ref', 'Reference'],
-    ['dev', 'Developers'],
-    ['post', 'Posts']
+    #['doc', 'Documentation'],
+    #['tut', 'Tutorial'],
+    #['ref', 'Reference'],
+    #['dev', 'Developers'],
+    #['post', 'Posts']
 ]
 
 # Keep as an empty string if served up at the root. If served up at a specific

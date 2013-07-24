@@ -1,22 +1,24 @@
 ---
 layout: default
-title: "Jekyll Docs Template"
+title: "How to contact Taco"
 ---
 
-<p class=lead>Tired of long and unmanageable single-page READMEs deployed as your project's documentation? This minimal <a href=http://jekyllrb.com/>Jekyll</a> project template is specifically intended for simple static documentation sites deployable on GitHub Pages.</p>
+Have a problem, question, or idea? Here's 4 ways to reach Troy and Jordan at Taco. We'll respond within 2 business days, often faster.
 
-The template follows a very simple convention of defining categories that correspond to sections in the navigation. Here are the default ones (they are listed in the `_config.yml`):
+### 1. Within Taco itself
 
-- `doc` - Documentation
-- `ref` - Reference
-- `tut` - Tutorial
-- `dev` - Developers
-- `post` - Posts
+There's a suggestion form right inside Taco, though we did our best to make it blend in. It's on the main tasks page and looks like this:
 
-Start by [creating a new post](http://jekyllrb.com/docs/posts/) one of the categories listed in `_config.yml`. It will appear in the navigation on the left once recompiled. Or use the supplied script to make creating pages easier:
+![Taco suggestion box]({{ site.url }}/assets/images/taco-suggestion.png)
 
-```bash
-ruby bin/jekyll-page "Some Page Title" ref
-```
+### 2. Web form
 
-Read more [Usage]({{ site.baseurl }}{% post_url 2013-06-06-usage %}) page for more details or view the project [on GitHub](https://github.com/bruth/jekyll-docs-template/)
+Have a longer comment? Pair it with a [much bigger form](https://tacoapp.com/feedback).
+
+### 3. Text chat
+
+Indeed, we're human. We're often idle in [text chat](https://tacoapp.com/chat), especially during US Pacific (UTC-8) waking hours.
+
+### 4. Email
+
+Time-tested email: `support` `@` `tacoapp.com`
