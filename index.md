@@ -1,18 +1,26 @@
 ---
 layout: default
-title: "Jekyll Docs Template"
+title: "How to contact Taco"
 ---
 
-### Get Started
+# How to contact us
 
-Start by [creating a new post](http://jekyllrb.com/docs/posts/) one of the categories listed in `_config.yml`. It will appear in the navigation on the left once recompiled. Or use the supplied script to make creating pages easier:
+Have a problem, question, or idea? Here's 4 ways to reach Troy and Jordan at Taco. We'll respond within 2 business days, often faster.
 
-```bash
-ruby bin/jekyll-page "Some Page Title" ref
-```
+### 1. Within Taco itself
 
-#### Don't Forget
+There's a suggestion form right inside Taco, though we did our best to make it blend in. It's on the main tasks page and looks like this:
 
-- Add your own content to this page (i.e. `index.md`) and change the `title`
-- Change `title` and `subtitle` defined in `config.yml` for your site
-- Set the `baseurl` in `_config.yml` for your repo if deploying to GitHub pages
+![Taco suggestion box]({{ site.url }}/assets/images/taco-suggestion.png)
+
+### 2. Web form
+
+Have a longer comment? Pair it with a [much bigger form](https://tacoapp.com/feedback).
+
+### 3. Text chat
+
+Indeed, we're human. We're often idle in [text chat](https://tacoapp.com/chat), especially during US Pacific (UTC-8) waking hours.
+
+### 4. Email
+
+Time-tested email: `support` `@` `tacoapp.com`
