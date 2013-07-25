@@ -19,6 +19,8 @@ Have a longer comment? Pair it with a [much bigger form](https://tacoapp.com/fee
 
 Indeed, we're human. We're often idle in [text chat](https://tacoapp.com/chat), especially during US Pacific (UTC-8) waking hours.
 
+If you don't have a chat account, [create one](https://tacoapp.com/chat-signup). Choose a nickname for other chat participants to identify you. You may also want to disable [notifications](https://grove.io/accounts/settings/notifications).
+
 ### 4. Email
 
 Time-tested email: `support` `@` `tacoapp.com`
