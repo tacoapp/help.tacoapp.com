@@ -1,6 +1,7 @@
 <ul class="nav nav-list">
-    <center><img src="{{site.url}}/assets/images/taco-circle-64x64.png"></center>
-    <li><a href="{{ site.baseurl }}/">Home</a></li>
+    <center><img src="{{site.url}}/assets/images/taco-circle-64x64.png" style="margin-bottom: 40px;"></center>
+    <li><a href="{{ site.baseurl }}/">Help Home</a></li>
+    <li><a href="{{ site.codeurl }}/">{{ site.title }}</a></li>
     {% for section in site.sections %}
         {% assign attr = section[0] %}
         {% assign label = section[1] %}
