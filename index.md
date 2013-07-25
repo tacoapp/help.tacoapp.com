@@ -21,7 +21,7 @@ Indeed, we're human! We're often idle in [text chat](https://tacoapp.com/chat), 
 
 **New to chat?** It's very easy to use, right inside your Web browser (or your favorite IRC client).
 
-[Create](https://tacoapp.com/chat-signup) a chat account and choose a nickname for other participants to identify you. You'll see a link to join Taco's chat room. Consider disabling chat notifications [here](https://grove.io/accounts/settings/notifications).  
+[Create](https://tacoapp.com/chat-signup) a chat account and choose a nickname for other participants to identify you. You'll see a link to join Taco's chat room. We recommend disabling chat notifications [here](https://grove.io/accounts/settings/notifications). Fans of chat can use an [IRC client](https://grove.io/help/irc/setup).
 
 ### 4. Email
 
