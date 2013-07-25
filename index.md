@@ -13,13 +13,15 @@ There's a suggestion form right inside Taco, though we did our best to make it b
 
 ### 2. Web form
 
-Have a longer comment? Pair it with a [much bigger form](https://tacoapp.com/feedback).
+Have a longer comment? Here's a [much bigger form](https://tacoapp.com/feedback).
 
 ### 3. Text chat
 
-Indeed, we're human. We're often idle in [text chat](https://tacoapp.com/chat), especially during US Pacific (UTC-8) waking hours.
+Indeed, we're human! We're often idle in [text chat](https://tacoapp.com/chat), especially during US Pacific (UTC-8) waking hours. 
 
-If you don't have a chat account, [create one](https://tacoapp.com/chat-signup). Choose a nickname for other chat participants to identify you. You may also want to disable [notifications](https://grove.io/accounts/settings/notifications).
+**New to chat?** It's very easy to use, right inside your Web browser (or your favorite IRC client).
+
+[Create](https://tacoapp.com/chat-signup) a chat account and choose a nickname for other participants to identify you. You'll see a link to join Taco's chat room. Consider disabling chat notifications [here](https://grove.io/accounts/settings/notifications).  
 
 ### 4. Email
 
