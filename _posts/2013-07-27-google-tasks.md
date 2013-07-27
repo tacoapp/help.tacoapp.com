@@ -10,7 +10,7 @@ date: 2013-07-27 10:30:13
 To connect Google Tasks with Taco, from the Connectors page, click
 "Google Tasks." GitHub will present a confirmation page like this:
 
-![Sync Google Tasks tasks with OAuth]({{ site.url }}/assets/connectors/google-tasks/oauth.png)
+![Sync Google Tasks tasks with OAuth]({{ site.url }}/assets/images/connectors/google-tasks/oauth.png)
 
 
 # Behavior

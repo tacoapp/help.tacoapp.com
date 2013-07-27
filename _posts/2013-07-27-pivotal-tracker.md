@@ -12,7 +12,7 @@ To connect Pivotal Tracker with Taco, from the Connectors page, click
 Obtain an API key from your Pivotal Tracker [Profile](https://www.pivotaltracker.com/profile) 
 page (accessible via the drop-down menu under your name in the top right corner).
 
-![Sync Pivotal Tracker issues via API]({{ site.url }}/assets/connectors/pivotal-tracker/settings.png)
+![Sync Pivotal Tracker issues via API]({{ site.url }}/assets/images/connectors/pivotal-tracker/settings.png)
 
 
 # Behavior
