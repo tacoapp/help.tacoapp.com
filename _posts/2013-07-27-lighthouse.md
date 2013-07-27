@@ -12,7 +12,7 @@ To connect Lighthouse with Taco, from the Connectors page, click
 Obtain a read-only API key per 
 [Lighthouse Support](http://help.lighthouseapp.com/kb/api/how-do-i-get-an-api-token).
 
-![Sync Lighthouse issues via API]({{ site.url }}/assets/connectors/lighthouse/settings.png)
+![Sync Lighthouse issues via API]({{ site.url }}/assets/images/connectors/lighthouse/settings.png)
 
 
 # Behavior

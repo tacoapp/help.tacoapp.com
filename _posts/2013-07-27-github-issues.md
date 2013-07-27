@@ -10,7 +10,7 @@ date: 2013-07-27 10:30:13
 To connect GitHub Issues with Taco, from the Connectors page, click
 "GitHub Issues." GitHub will present a confirmation page like this:
 
-![Sync GitHub Issues with OAuth]({{ site.url }}/assets/connectors/github-issues/oauth.png)
+![Sync GitHub Issues with OAuth]({{ site.url }}/assets/images/connectors/github-issues/oauth.png)
 
 
 # Behavior
