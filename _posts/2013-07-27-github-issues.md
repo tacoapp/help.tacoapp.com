@@ -3,6 +3,7 @@ layout: page
 title: "GitHub Issues"
 category: connectors
 date: 2013-07-27 10:30:13
+order: 30
 ---
 
 # Setup

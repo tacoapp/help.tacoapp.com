@@ -3,6 +3,7 @@ layout: page
 title: "Pivotal Tracker"
 category: connectors
 date: 2013-07-27 10:30:13
+order: 70
 ---
 
 # Setup
