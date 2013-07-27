@@ -23,6 +23,10 @@ code {
     margin-bottom: 40px;
 }
 
+a.brand {
+    margin-right: 20px;
+}
+
 #header a:hover {
     text-decoration: none;
 }
