@@ -13,6 +13,7 @@ codeurl: 'https://tacoapp.com/'
 
 # Default categories (in order) to appear in the navigation
 sections: [
+    ['how-it-works', 'Make Taco Your Own'],
     ['connectors', 'Connectors'],
 ]
 
