@@ -84,12 +84,14 @@ and the 6-digit RGB ("HTML color") code, like `FF00FF`. For example:
 
     https://tacoapp.com/tasks?bgcolor=22884F
 
-Visiting [this URL](https://tacoapp.com/tasks?bgcolor=22884F) will load
-Taco with a solid green background. To choose a color, try 
-[Color Scheme Designer](http://colorschemedesigner.com/).
+To choose a color and find its 6-digit RGB code, try 
+[Color Scheme Designer](http://colorschemedesigner.com/). Here are examples 
+with [green](https://tacoapp.com/tasks?bgcolor=22884F), 
+[orange](https://tacoapp.com/tasks?bgcolor=A64D00), and 
+[blue](https://tacoapp.com/tasks?bgcolor=2A4580).
 
-To use a custom theme on a permanent basis, bookmark its URL. This may
-become easier.
+Once you've settled on a theme that you like, bookmark its URL to use it
+on an ongoing basis. This may become easier.
 
 #### Email Summary
 
