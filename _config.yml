@@ -1,6 +1,6 @@
 # Site title and subtitle. This is used in _includes/header.html
 title: 'Taco'
-subtitle: 'Support & help.'
+subtitle: 'Support & help. Evolving as Taco goes from prototype to production.'
 
 # Enable/show navigation. There are there options:
 #   0 - always hide
