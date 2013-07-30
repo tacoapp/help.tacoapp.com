@@ -63,6 +63,7 @@ Send yourself an email containing "Up next" items (like the daily punchlist).
 Edit [Settings](https://tacoapp.com/connector), including connectors,
 email summary frequency, and themes.
 
+<a name="themes"></a>
 #### Themes
 
 We want Taco to be an environment you love to work in (or better, many
