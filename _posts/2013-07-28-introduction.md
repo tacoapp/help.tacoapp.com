@@ -85,11 +85,13 @@ and the 6-digit RGB ("HTML color") code, like `FF00FF`. For example:
 
     https://tacoapp.com/tasks?bgcolor=22884F
 
-To choose a color and find its 6-digit RGB code, try 
-[Color Scheme Designer](http://colorschemedesigner.com/). Here are examples 
-with [green](https://tacoapp.com/tasks?bgcolor=22884F), 
+Here are examples with [green](https://tacoapp.com/tasks?bgcolor=22884F), 
 [orange](https://tacoapp.com/tasks?bgcolor=A64D00), and 
-[blue](https://tacoapp.com/tasks?bgcolor=2A4580).
+[blue](https://tacoapp.com/tasks?bgcolor=2A4580). To choose a color, try 
+[Color Scheme Designer](http://colorschemedesigner.com/). 
+
+To disable distinctive backgrounds, provide a neutral color like
+[gray](https://tacoapp.com/tasks?bgcolor=444444).
 
 Once you've settled on a theme that you like, bookmark its URL to use it
 on an ongoing basis. This may become easier.
