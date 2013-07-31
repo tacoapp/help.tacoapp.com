@@ -16,6 +16,7 @@ Learn more on Taco's [Kickstarter listing](https://tacoapp.com/kickstarter)
 (and video), our too-short-to-be-a-manifesto [manifesto](https://tacoapp.com/info/about),
 or Leo Babauta on [The Daily Checklist](http://zenhabits.net/check/).
 
+
 ## Connectors
 
 Taco works by interfacing with the task lists you already use. The world
@@ -30,9 +31,13 @@ OAuth) or be prompted for access information (such as an API key).
 See the "Connectors" sidebar section for screenshots and details about
 each connector's sync behavior.
 
+
 ## The Basics
 
-Here's what Taco does.
+Here's what Taco does. 
+
+**Important**: Like Taco itself, this document is evolving and includes
+freeform notes.
 
 ### Drag and drop ("I'm ready to work on this now")
 
@@ -96,9 +101,33 @@ To disable distinctive backgrounds, provide a neutral color like
 Once you've settled on a theme that you like, bookmark its URL to use it
 on an ongoing basis. This may become easier.
 
-#### Email Summary
+#### Email summary
 
 Start the day out right with a punchlist of where you left off.  Taco
 can email you what's up next every weekday, every day, or only on
 Mondays. We'd put a joke about [work-life balance](http://en.wikipedia.org/wiki/Work%E2%80%93life_balance#Consequences_of_an_Imbalance)
 here if we had one.
+
+
+#### Keyboard shortcuts
+
+
+### Non-Features
+
+#### Automatic refresh
+
+Taco doesn't automatically refresh at all. That decision began as a way
+to be considerate of Google Tasks' API request limit, but after adding
+additional services, we tried auto-syncing with other services. The
+surprise: Troy really didn't care for tasks shifting underneath him.
+
+Though an automatic refresh sounded really useful, trying it made Troy
+realize that the unique thing about Taco is that it's entirely my own
+preferences, decoupled from any others. Taco's stable, all-about-me
+priority was my escape valve from other people's changes: I know nothing
+will move unless I do it.
+
+(Tangent: completing a task fell into the same "I thought I'd want it"
+bucket. Turned out that visiting the underlying service to click "Close"
+feels like a golf ball going into a hole - not something golfers think
+of as a distraction! Usually there's task-specific notes to add anyway.)
