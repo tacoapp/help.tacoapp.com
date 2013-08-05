@@ -21,4 +21,4 @@ To connect Basecamp Next with Taco, from the Connectors page, click
 Taco imports all active todos which are assigned to you, from across all
 todo lists.
 
-Also see [Basecamp Classic][basecamp.html].
+Also see [Basecamp Classic](basecamp.html).
