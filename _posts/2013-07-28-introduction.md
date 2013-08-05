@@ -28,8 +28,13 @@ Link the services you use and love by clicking the "Connectors" icon. On
 either be prompted to approve Taco's access (for services which support
 OAuth) or be prompted for access information (such as an API key).
 
-See the "Connectors" sidebar section for screenshots and details about
-each connector's sync behavior.
+When a connector is authorized, Taco will display a message like this
+and will immediately try to obtain related tasks:
+
+!["Connector activated. We're trying to retrieve tasks right now."]({{ site.url }}/assets/images/sync-message.png)
+
+See the "Connectors" sidebar section for details about each connector's
+sync behavior.
 
 
 ## The Basics
