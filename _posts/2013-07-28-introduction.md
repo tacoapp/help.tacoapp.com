@@ -116,6 +116,12 @@ here if we had one.
 
 #### Keyboard shortcuts
 
+#### App Icon
+
+For users of [Fluid](http://fluidapp.com/) and other 
+[site-specific browsers](http://en.wikipedia.org/wiki/Site-specific_browser#Software),
+[here]({{ site.url }}/assets/images/taco-icon-500x500.png) is a 500x500
+pixel icon.
 
 ### Non-Features
 
