@@ -24,9 +24,9 @@ doesn't need another way to create tasks, which is why you can't create
 tasks in Taco.
 
 Link the services you use and love by clicking the "Connectors" icon. On
-[Connectors](https://tacoapp.com/connectors), choose a service. You'll
-either be prompted to approve Taco's access (for services which support
-OAuth) or be prompted for access information (such as an API key).
+[Connectors][], choose a service. You'll either be prompted to approve
+Taco's access (for services which support OAuth) or be prompted for
+access information (such as an API key).
 
 When a connector is authorized, Taco will display a message like this
 and will immediately try to obtain related tasks:
@@ -113,6 +113,19 @@ can email you what's up next every weekday, every day, or only on
 Mondays. We'd put a joke about [work-life balance](http://en.wikipedia.org/wiki/Work%E2%80%93life_balance#Consequences_of_an_Imbalance)
 here if we had one.
 
+### Other
+
+#### Multiple accounts on a service
+
+To link multiple accounts on the same service, or the same account with
+different task filter settings, visit [Connectors][]. Navigate to the
+service and click "Add Another":
+
+!["Add Another"]({{ site.url }}/assets/images/add-another.png)
+
+Note: Different services may have restrictions on multiple
+authorizations. Please let us know if the result is not exactly the set
+of tasks which you want.
 
 #### Keyboard shortcuts
 
@@ -142,3 +155,5 @@ will move unless I do it.
 bucket. Turned out that visiting the underlying service to click "Close"
 feels like a golf ball going into a hole - not something golfers think
 of as a distraction! Usually there's task-specific notes to add anyway.)
+
+[Connectors]: https://tacoapp.com/connectors
