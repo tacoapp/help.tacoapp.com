@@ -86,9 +86,9 @@ the image. For example:
 
     https://tacoapp.com/tasks?background=http://the.url.com/wallpaper.png
 
-[This URL](https://tacoapp.com/tasks?background=http://otife.com/wp-content/uploads/2013/04/HD-wallpaper-Otife-abstract-tardis.jpg)
-loads Taco with a different background. Images can live on any Web site,
-such as these [free hosts](https://www.google.com/search?q=free+image+hosting)).
+[This URL](https://tacoapp.com/tasks?background=http://www.wallpaperup.com/uploads/wallpapers/2012/08/09/10146/bef21cf1a96204c390c5c32fb5221c51.jpg)
+loads Taco with a different background. Images can reside on any Web
+site, such as these [free hosts](https://www.google.com/search?q=free+image+hosting)).
 
 To provide a solid color instead of a background image, add `?bgcolor=`
 and the 6-digit RGB ("HTML color") code, like `FF00FF`. For example:
