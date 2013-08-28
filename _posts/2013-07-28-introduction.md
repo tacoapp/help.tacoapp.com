@@ -115,6 +115,33 @@ here if we had one.
 
 ### Other
 
+<a name="filters"></a>
+#### Filters
+
+For all connectors, Taco can filter tasks to only those matching (or not
+matching) words or phrases you want, or only retrieve a limited set
+(such as the 5 highest priority).
+
+Once a connector is active, visit [Connectors][] and click "Settings". 
+Click "Filters (Optional)" to expand the filter settings, if it is not
+already visible. You should see this:
+
+![Filter tasks]({{ site.url }}/assets/images/filters.png)
+
+Taco's filters work similar to 
+[Google searches](https://support.google.com/websearch/answer/136861?p=adv_operators&hl=en).
+For example, a simple filter to ignore tasks containing "Not important" would be:
+
+    -"Not important"
+
+A filter to only retrieve tasks containing either "Automate" or "for
+users" would be:
+
+    automate OR "for users"
+
+Note that as with Google, the `OR` must be capitalized. Task matching is
+case-insensitive.
+
 #### Multiple accounts on a service
 
 To link multiple accounts on the same service, or the same account with
