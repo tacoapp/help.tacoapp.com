@@ -3,7 +3,6 @@ layout: page
 title: "Basecamp Next"
 category: connectors
 date: 2013-07-27 10:30:13
-order: 20
 ---
 
 # Setup

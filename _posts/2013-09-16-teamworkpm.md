@@ -14,7 +14,7 @@ your API token per [TeamworkPM Support](http://developer.teamworkpm.net/enableth
 
 Once you have the API key, provide it to Taco:
 
-![Sync TeamworkPM issues via API]({{ site.url }}/assets/images/connectors/teamworpm/settings.png)
+![Sync TeamworkPM issues via API]({{ site.url }}/assets/images/connectors/teamworkpm/settings.png)
 
 
 # Behavior
