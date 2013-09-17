@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "TeamworkPM"
-category: how-it-works
+category: connectors
 date: 2013-09-16 16:15:02
 ---
 
