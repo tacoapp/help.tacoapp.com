@@ -1,7 +1,6 @@
 <ul class="nav nav-list">
     <center><img src="{{site.url}}/assets/images/taco-circle-64x64.png" style="margin-bottom: 40px;"></center>
     <li><a href="{{ site.baseurl }}/">Help Home</a></li>
-    <li><a href="{{ site.codeurl }}">{{ site.title }}</a></li>
     {% for section in site.sections %}
         {% assign attr = section[0] %}
         {% assign label = section[1] %}
@@ -15,4 +14,6 @@
     {% endfor %}
 <!-- List additional links. It is recommended to add a divider
     e.g. <li class=divider></li> first to break up the content. -->
+    <li class=divider></li>
+    <li><a href="{{ site.codeurl }}">{{ site.title }}</a></li>
 </ul>
