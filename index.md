@@ -1,14 +1,14 @@
 ---
 layout: default
-title: "Taco - Help & Contact"
+title: "Taco - Help & Contact Info"
 ---
 
 ## Help
 
-Check the sidebar for an [introduction](/how-it-works/introduction.html) to Taco and information 
-about each connector.
+Check the left side menu or head right to [Introduction](/how-it-works/introduction.html).
 
-## Support
+
+## Contact Us
 
 Have a problem, question, or idea? Here's 4 ways to reach [Troy](https://twitter.com/troyd) and [Jordan](https://twitter.com/fixie) at Taco. We'll respond within 2 business days, often faster.
 
