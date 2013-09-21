@@ -3,7 +3,7 @@ layout: page
 title: "The Basics"
 category: how-it-works
 date: 2013-09-17 06:55:27
-order: 6
+order: 1
 ---
 
 
