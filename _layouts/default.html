@@ -78,7 +78,7 @@
 
                 for (var i = 0; i < sections.length; i++) {
                     section = sections[i];
-                    list = lists[section].sort(function(a, b) { return a - b; });
+                    list = lists[section].sort();
 
                     if (header = headers[section]) {
                         navUl.appendChild(header);
