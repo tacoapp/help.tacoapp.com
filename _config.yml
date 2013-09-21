@@ -1,5 +1,5 @@
 # Site title and subtitle. This is used in _includes/header.html
-title: 'Taco'
+title: 'Taco Help'
 subtitle: 'Support & help. Evolving as Taco goes from prototype to production.'
 
 # Enable/show navigation. There are there options:
@@ -13,7 +13,7 @@ codeurl: 'https://tacoapp.com/'
 
 # Default categories (in order) to appear in the navigation
 sections: [
-    ['how-it-works', 'Make Taco Your Own'],
+    ['how-it-works', 'How Taco Works'],
     ['connectors', 'Connectors'],
 ]
 
