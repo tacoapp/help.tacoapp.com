@@ -23,3 +23,8 @@ Note that Taco has as little access as possible in order to see Issues.
 As shown in the permission screen above, it's still more access than we
 want. We have contacted GitHub to suggest an OAuth access [scope](http://developer.github.com/v3/oauth/#scopes) 
 which may only access Issues.
+
+## Keyboard shortcut
+
+While using Taco, press the keyboard shortcut `g gi` (as in "go to
+GitHub Issues") to open GitHub Issues in a new browser tab.

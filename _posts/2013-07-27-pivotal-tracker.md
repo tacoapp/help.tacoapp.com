@@ -32,3 +32,8 @@ where `joe` is your Pivotal Tracker username.
 
 You may also define your own filter, as shown in the screenshot above.
 See [Pivotal Tracker Help](https://www.pivotaltracker.com/help/faq#howcanasearchberefined).
+
+## Keyboard shortcut
+
+While using Taco, press the keyboard shortcut `g pi` (as in "go to
+Pivotal Tracker") to open Pivotal Tracker in a new browser tab.
