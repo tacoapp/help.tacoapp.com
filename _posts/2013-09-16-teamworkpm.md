@@ -21,3 +21,8 @@ Once you have the API key, provide it to Taco:
 # Behavior
 
 Taco imports all non-completed tasks which are assigned to you, from across all projects.
+
+## Keyboard shortcut
+
+While using Taco, press the keyboard shortcut `g te` (as in "go to
+TeamworkPM") to open TeamworkPM in a new browser tab.

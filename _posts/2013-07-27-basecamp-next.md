@@ -22,3 +22,8 @@ Taco imports all active todos which are assigned to you, from across all
 todo lists.
 
 Also see [Basecamp Classic](basecamp.html).
+
+## Keyboard shortcut
+
+While using Taco, press the keyboard shortcut `g ba` (as in "go to
+Basecamp") to open Basecamp in a new browser tab.

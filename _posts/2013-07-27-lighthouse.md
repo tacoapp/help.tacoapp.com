@@ -25,3 +25,8 @@ By default, Taco imports all tickets which match this filter:
 This filter is appropriate for most Lighthouse environments. You may also
 define your own filter, as shown in the screenshot above. See
 [Lighthouse Support](http://help.lighthouseapp.com/kb/getting-started/how-do-i-search-for-tickets)).
+
+## Keyboard shortcut
+
+While using Taco, press the keyboard shortcut `g li` (as in "go to
+Lighthouse") to open Lighthouse in a new browser tab.
