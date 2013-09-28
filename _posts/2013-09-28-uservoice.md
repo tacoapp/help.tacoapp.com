@@ -16,9 +16,11 @@ Taco will present a settings page like this one:
 Enter the site name of your UserVoice installation. For example, if your 
 UserVoice site is at `acme.uservoice.com`, enter: `acme`
 
-Click "Continue." UserVoice will present an approval screen:
+Click "Continue" and UserVoice will present an approval screen:
 
 ![Sync UserVoice tickets via OAuth]({{ site.url }}/assets/images/connectors/uservoice/oauth.png)
+
+Click "Allow access" to approve Taco's access.
 
 
 # Behavior
@@ -31,5 +33,3 @@ and assigned to you.
 
 While using Taco, press the keyboard shortcut `g us` (as in "go to
 UserVoice") to open UserVoice in a new browser tab.
-
-
