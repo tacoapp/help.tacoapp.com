@@ -11,7 +11,7 @@ order: 117
 To connect UserVoice with Taco, from the Connectors page, click "UserVoice."
 Taco will present a settings page like this one:
 
-![UserVoice site subdomain]({{ site.url }}/asset/images/connectors/uservoice/subdomain.png)
+![UserVoice site subdomain]({{ site.url }}/assets/images/connectors/uservoice/subdomain.png)
 
 Enter the site name of your UserVoice installation. For example, if your 
 UserVoice site is at `acme.uservoice.com`, enter: `acme`
