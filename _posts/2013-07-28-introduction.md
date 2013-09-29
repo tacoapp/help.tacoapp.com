@@ -10,12 +10,16 @@ order: 0
 ## What and why?
 
 Taco helps you intentionally choose, confidently focus on, and
-efficiently finish the tasks you already have. Taco brings all of the
-tasks you have – from the services you already use – on to one screen.
+efficiently finish the tasks you already have. To do this, Taco brings
+all of the tasks you have – from the services you already use – on to
+one screen.
 
-Learn more on Taco's [Kickstarter listing](https://tacoapp.com/kickstarter)
-(and video), our too-short-to-be-a-manifesto [manifesto](https://tacoapp.com/info/about),
-or Leo Babauta on [The Daily Checklist](http://zenhabits.net/check/).
+Learn more on:
+
+* Taco's [Kickstarter listing](https://tacoapp.com/kickstarter)
+(and video)
+* our too-short-to-be-a-manifesto [manifesto](https://tacoapp.com/info/about)
+* from Leo Babauta's [The Daily Checklist](http://zenhabits.net/check/)
 
 
 ## Connectors
@@ -36,5 +40,7 @@ and will immediately try to obtain related tasks:
 
 See the "Connectors" sidebar section for details about each connector's
 sync behavior.
+
+Using Taco? Continue to [The Basics](the-basics.html).
 
 [Connectors]: https://tacoapp.com/connectors

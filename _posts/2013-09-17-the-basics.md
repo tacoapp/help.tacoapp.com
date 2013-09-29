@@ -6,7 +6,6 @@ date: 2013-09-17 06:55:27
 order: 1
 ---
 
-
 ## The Basics
 
 Here's how to use Taco.
@@ -88,3 +87,5 @@ Start the day out right with a punchlist of where you left off.  Taco
 can email you what's up next every weekday, every day, or only on
 Mondays. We'd put a joke about [work-life balance](http://en.wikipedia.org/wiki/Work%E2%80%93life_balance#Consequences_of_an_Imbalance)
 here if we had one.
+
+Ready to geek out a bit? Keep reading to [The Rest](the-rest.html).
