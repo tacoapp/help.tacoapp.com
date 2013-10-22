@@ -41,7 +41,25 @@ Create a PDF with all tasks, like to print, save, or email it.
 
 ### Email
 
-Send yourself an email containing "Up next" items (like the daily punchlist).
+Send yourself an email containing "Up next" items (like the daily
+punchlist). Taco can also do this on a daily basis.
+
+### Find-as-you-type filter
+
+To see only a portion of "For later" tasks, click the magnifying
+glass or press `/` (forward slash), then type a string. Here's how it
+looks:
+
+![Find as you type 1]({{ site.url }}/assets/images/find-as-you-type-1.png)
+![Find as you type 2]({{ site.url }}/assets/images/find-as-you-type-2.png)
+![Find as you type 3]({{ site.url }}/assets/images/find-as-you-type-3.png)
+
+To continue using Taco while the find-as-you-type filter remains active,
+click outside of the search box or press Enter.
+
+To remove the find-as-you-type filter, press click the "X" icon or press
+Escale.
+
 
 ### Settings
 
@@ -55,31 +73,16 @@ We want Taco to be an environment you love to work in (or better, many
 such environments). To that end, Taco provides a handful of custom
 backgrounds as themes. Choose one or provide your own.
 
-As an advanced option, you can provide your own background image or
-color. To provide a background image, add `?background=` and the URL to
-the image. For example:
+You can provide your own background image or color. Browse to the
+"Themes" section of the Settings page and provide either the URL to a
+background image or a Web (RGB) color code.
 
-    https://tacoapp.com/tasks?background=http://the.url.com/wallpaper.png
-
-[This URL](https://tacoapp.com/tasks?background=http://www.wallpaperup.com/uploads/wallpapers/2012/08/09/10146/bef21cf1a96204c390c5c32fb5221c51.jpg)
-loads Taco with a different background. Images can reside on any Web
-site, such as these [free hosts](https://www.google.com/search?q=free+image+hosting)).
-
-To provide a solid color instead of a background image, add `?bgcolor=`
-and the 6-digit RGB ("HTML color") code, like `FF00FF`. For example:
-
-    https://tacoapp.com/tasks?bgcolor=22884F
-
-Here are examples with [green](https://tacoapp.com/tasks?bgcolor=22884F), 
-[orange](https://tacoapp.com/tasks?bgcolor=A64D00), and 
-[blue](https://tacoapp.com/tasks?bgcolor=2A4580). To choose a color, try 
-[Color Scheme Designer](http://colorschemedesigner.com/). 
+To choose an image, try [Flickr](http://flickr.com/) or 
+[dA](http://www.deviantart.com/). Images with consistent brightness work best.
+To choose a color, try [Color Scheme Designer](http://colorschemedesigner.com/). 
 
 To disable distinctive backgrounds, provide a neutral color like
 [gray](https://tacoapp.com/tasks?bgcolor=444444).
-
-Once you've settled on a theme that you like, bookmark its URL to use it
-on an ongoing basis. This may become easier.
 
 #### Email summary
 
@@ -87,5 +90,7 @@ Start the day out right with a punchlist of where you left off.  Taco
 can email you what's up next every weekday, every day, or only on
 Mondays. We'd put a joke about [work-life balance](http://en.wikipedia.org/wiki/Work%E2%80%93life_balance#Consequences_of_an_Imbalance)
 here if we had one.
+
+![Email options]({{ site.url }}/assets/images/email-options.png)
 
 Ready to geek out a bit? Keep reading to [The Rest](the-rest.html).
