@@ -50,9 +50,9 @@ To see only a portion of "For later" tasks, click the magnifying
 glass or press `/` (forward slash), then type a string. Here's how it
 looks:
 
-![Find as you type 1]({{ site.url }}/assets/images/find-as-you-type-1.png)
-![Find as you type 2]({{ site.url }}/assets/images/find-as-you-type-2.png)
-![Find as you type 3]({{ site.url }}/assets/images/find-as-you-type-3.png)
+![Find as you type 1]({{ site.url }}/assets/images/find-as-you-type-1.jpg)
+![Find as you type 2]({{ site.url }}/assets/images/find-as-you-type-2.jpg)
+![Find as you type 3]({{ site.url }}/assets/images/find-as-you-type-3.jpg)
 
 To continue using Taco while the find-as-you-type filter remains active,
 click outside of the search box or press Enter.
