@@ -8,7 +8,7 @@ order: 57
 
 # Setup
 
-To connect OmniFocus (via [Omni Sync Server][http://www.omnigroup.com/support/omnifocus-omni-sync-server])
+To connect OmniFocus (via [Omni Sync Server](http://www.omnigroup.com/support/omnifocus-omni-sync-server))
 with Taco, from the Connectors page, click "OmniFocus." Taco will
 present a settings page like the one below. Provide your Omni Sync
 Server credentials.
