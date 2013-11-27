@@ -38,11 +38,3 @@ Have a longer comment? Here's a [longer form](https://tacoapp.com/feedback).
 ### 3. Email
 
 Time-tested email: `support` `@` `tacoapp.com`
-
-### 4. Text chat
-
-Indeed, we're human! We're often idle in [text chat](https://tacoapp.com/chat), especially during US Pacific (UTC-8) waking hours. 
-
-**New to chat?** It's very easy to use, right inside your Web browser
-(or your favorite IRC client). If you don't have a chat account, let us
-know and we'll take care of it.
