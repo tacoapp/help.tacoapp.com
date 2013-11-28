@@ -15,7 +15,10 @@ Server credentials.
 
 # Behavior
 
-Taco imports all open tasks from across all contexts.
+Taco imports all open tasks from across all contexts. For more granular
+control, consider [filters](../how-it-works/the-rest.html#filters) or a
+automated hourly export, as Taco supports for [Things](things.html) and
+[text files](text-file.html).
 
 ## Links
 
