@@ -22,6 +22,7 @@ It's that simple.
 
 Click the Sync icon to tell Taco to update its data from your connected
 services. In 12-15 seconds, you'll see the updated information roll in.
+Taco retrieves up to 500 tasks from each connected service.
 
 ### Hide ("I can't act on this")
 
@@ -58,8 +59,16 @@ To continue using Taco while the find-as-you-type filter remains active,
 click outside of the search box or press Enter.
 
 To remove the find-as-you-type filter, press click the "X" icon or press
-Escale.
+Escape.
 
+### Hide-able sidebar
+
+Want to focus? To hide the "For Later" sidebar entirely, hit `\`
+(backslash) or click the arrow at the far left edge of the screen. To
+display "For Later" again, do the same thing.
+
+Taco remembers your last-used option on any given browser, so it won't
+interrupt your focus mode.
 
 ### Settings
 
