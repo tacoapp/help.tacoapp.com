@@ -6,21 +6,20 @@ title: "Taco - Help & Contact Info"
 Taco brings all of the tasks you have – from the services you already
 use – on to one screen. Read more on [tacoapp.com](https://tacoapp.com).
 
-## Getting started
+## New?
 
-Head over to [Introduction](/how-it-works/introduction.html).
+Welcome! Head over to [Introduction](/how-it-works/introduction.html) or just
+dive in to <a href="https://tacoapp.com/">Taco itself</a>.
 
+### News
 
-## Updates
-
-* Kickstarter [backer updates](http://kickstarter.com/projects/tacoapp/taco-basecamp-to-zendesk-all-your-tasks-in-one-pla/posts)
 * [blog.tacoapp.com](http://blog.tacoapp.com/)
 * [@tacoapp](https://twitter.com/tacoapp) on Twitter
 
 
-## Contact us
+## Have a question?
 
-Problem, question, or idea? Here's 4 ways to reach [Troy](https://twitter.com/troyd) and [Jordan](https://twitter.com/fixie). We track comments religiously and we'll always respond, though it may not be immediately while we're hard at work on your Kickstarter backer reward.
+Problem, question, or idea? Here's 3 ways to reach [Troy](https://twitter.com/troyd) and [Jordan](https://twitter.com/fixie). We track comments religiously and we'll always respond, though it may not be immediately.
 
 ### 1. Within Taco itself
 
