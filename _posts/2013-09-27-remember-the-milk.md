@@ -12,13 +12,17 @@ To connect Remember The Milk with Taco, from the Connectors page, click
 "Remember The Milk." Taco will present a settings page like the one
 below.
 
-Obtain an "Atom URL" from your Remember The Milk "All Tasks" tab.
-Copy it from the link shown:
+First, enable "[Private Addresses](http://www.rememberthemilk.com/help/?ctx=feeds.rss.privateaddress)" 
+in Remember The Milk.
+
+Second, obtain the "Atom URL" from your Remember The Milk "All Tasks"
+tab. Copy it from the link shown in this screenshot:
 
 ![Remember The Milk Atom/RSS URL]({{ site.url }}/assets/images/connectors/remember-the-milk/atom.png)
 
-Once you have the API key, paste it into the Taco Remember The Milk
-settings page.
+Once you have the URL, paste it into the Taco Remember The Milk settings
+page. The URL will contain an API key, which enables Taco to obtain your
+tasks.
 
 
 # Behavior
