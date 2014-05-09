@@ -17,9 +17,8 @@ Copy it from the link shown:
 
 ![Remember The Milk Atom/RSS URL]({{ site.url }}/assets/images/connectors/remember-the-milk/atom.png)
 
-Once you have the API key, paste it into the Taco settings page:
-
-![Sync Remember The Milk issues via API]({{ site.url }}/assets/images/connectors/remember-the-milk/settings.png)
+Once you have the API key, paste it into the Taco Remember The Milk
+settings page.
 
 
 # Behavior
