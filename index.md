@@ -6,21 +6,11 @@ title: "Taco - Help & Contact Info"
 Taco brings all of the tasks you have – from the services you already
 use – on to one screen. Read more on [tacoapp.com](https://tacoapp.com).
 
-Taco helps you intentionally choose, confidently focus on, and
-efficiently finish the tasks you already have. As Leo Babauta's 
-[The Daily Checklist](http://zenhabits.net/check/) says:
-
-> Here’s a problem worth solving: am I doing the thing I most need to be
-> doing right now?
-
-Here's our too-short-to-be-a-manifesto
-[manifesto](https://tacoapp.com/info/about)
-
 
 ## New?
 
-Welcome! Head over to [Quick Start](/how-it-works/quick-start.html) or
-just dive in to <a href="https://tacoapp.com/">Taco itself</a>.
+Welcome! Head over to [Quick Start](/how-it-works/quick-start.html) or 
+dive in to <a href="https://tacoapp.com/">Taco itself</a>.
 
 ### News
 
