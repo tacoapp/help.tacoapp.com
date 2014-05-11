@@ -6,24 +6,21 @@ date: 2013-07-28 06:55:27
 order: 0
 ---
 
-## Connectors!
+On Taco's [Connectors][] page, link the services you use and love.
+Takes about 10 seconds.
 
-Taco works by interfacing with the task lists you already use. The world
-doesn't need another way to create tasks, which is why you can't create
-tasks in Taco.
+### How's this work?
 
-Link the services you use and love by clicking the "Connectors" icon. On
-[Connectors][], choose a service. You'll either be prompted to approve
-Taco's access (for services which support OAuth) or be prompted for
-access information (such as an API key).
+Choose a service. You'll either be prompted to approve Taco's access or
+be prompted for access information (such as an API key).
 
 When a connector is authorized, Taco will display a message like this
-and will immediately try to obtain related tasks:
+and then fetch your tasks:
 
 !["Connector activated. We're trying to retrieve tasks right now."]({{ site.url }}/assets/images/sync-message.png)
 
-See the "Connectors" sidebar section for details about each connector's
-sync behavior.
+Many connectors can filter tasks too, like to only retrieve certain
+projects. For details, see each connector's help page.
 
 
 ## Using Taco
