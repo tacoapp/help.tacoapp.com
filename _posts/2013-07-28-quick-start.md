@@ -20,7 +20,7 @@ and then fetch your tasks:
 !["Connector activated. We're trying to retrieve tasks right now."]({{ site.url }}/assets/images/sync-message.png)
 
 Many connectors can filter tasks too, like to only retrieve certain
-projects. For details, see each connector's help page.
+projects. For details, see each connector's help page or [Filters][].
 
 
 ## Using Taco
@@ -99,3 +99,4 @@ like [gray](https://tacoapp.com/tasks?bgcolor=444444).
 Ready to geek out a bit? Keep reading to [The Rest](the-rest.html).
 
 [Connectors]: https://tacoapp.com/connectors
+[Filters]: the-rest.html#filters
