@@ -22,15 +22,17 @@ Click "Allow" to approve Taco's access.
 
 # Behavior
 
-Taco imports up to 250 cases which are not Closed and are assigned to
-you. This should be identical to the "My Open" view on salesforce.com's
-Cases tab.
+Taco imports up to:
 
-## Closing cases
+* 250 cases which are not Closed and are assigned to you. This should be
+  identical to the "My Open" view on salesforce.com's Cases tab.
+* 250 tasks which are not Completed and are assigned to you.
 
-To mark a case closed in Salesforce from within Taco, click the case's
-checkbox in Taco. Taco will prompt you whether or not to update
-Salesforce.
+## Closing cases and completing tasks
+
+To mark a case closed or a task complete in Salesforce from within Taco,
+click its checkbox in Taco. Taco will prompt you whether or not to
+update Salesforce.
 
 ## Keyboard shortcut
 
