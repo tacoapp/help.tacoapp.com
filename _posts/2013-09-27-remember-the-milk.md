@@ -16,7 +16,11 @@ First, enable "[Private Addresses](http://www.rememberthemilk.com/help/?ctx=feed
 in Remember The Milk.
 
 Second, obtain the "Atom URL" from your Remember The Milk "All Tasks"
-tab. Copy it from the link shown in this screenshot:
+tab. (Have an older account with no "All Tasks" tab? Here's 
+[how to add it](https://www.rememberthemilk.com/forums/help/10179/)).
+
+Once on the "All Tasks" tab, copy its Atom URL from the link shown in
+this screenshot:
 
 ![Remember The Milk Atom/RSS URL]({{ site.url }}/assets/images/connectors/remember-the-milk/atom.png)
 
