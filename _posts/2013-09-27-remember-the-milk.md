@@ -16,22 +16,30 @@ First, enable "[Private Addresses](http://www.rememberthemilk.com/help/?ctx=feed
 in Remember The Milk.
 
 Second, obtain the "Atom URL" from your Remember The Milk "All Tasks"
-tab. (Have an older account with no "All Tasks" tab? Here's 
-[how to add it](https://www.rememberthemilk.com/forums/help/10179/)).
+tab/list (or any other list). (Have an older RTM account with no "All
+Tasks" tab? Here's 
+[how to create it](https://www.rememberthemilk.com/forums/help/10179/)).
 
-Once on the "All Tasks" tab, copy its Atom URL from the link shown in
-this screenshot:
+Once on the "All Tasks" list or the list you would like Taco to use,
+copy its Atom URL from the link shown in this screenshot:
 
 ![Remember The Milk Atom/RSS URL]({{ site.url }}/assets/images/connectors/remember-the-milk/atom.png)
 
-Once you have the URL, paste it into the Taco Remember The Milk settings
-page. The URL will contain an API key, which enables Taco to obtain your
-tasks.
+After copying the URL, paste it into the Taco's Remember The Milk
+settings page. The URL will contain an API key, which enables Taco to
+obtain your tasks. For example:
+
+    https://www.rememberthemilk.com/atom/user.acct/1234567/?tok=a-very-long-code
 
 
 # Behavior
 
-Taco imports all tasks which are not completed.
+Taco imports all tasks in the list which you chose (such as "All
+Tasks"). To import a different set of tasks, like only those due prior
+to now, create an RTM 
+[Smart List](https://www.rememberthemilk.com/help/?ctx=iphone.smartlists.addsmartlist) 
+and point Taco at that list. Smart Lists can use any RTM search,
+like `dueBefore:now`.
 
 ## Keyboard shortcut
 
