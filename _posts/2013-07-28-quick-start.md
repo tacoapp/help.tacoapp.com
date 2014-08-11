@@ -38,10 +38,14 @@ For example, Taco can archive an email in your Gmail inbox and can mark
 a Basecamp to-do as complete.
 
 To mark a task complete, hover over the task and click the checkbox
-which appears. A prompt will ask whether Taco should update the service
-(if available) or simply hide the task on Taco.
+which appears. 
 
 ![Complete a task]({{ site.url }}/assets/images/complete.png)
+
+A prompt will ask whether Taco should update the service
+(if available) or simply hide the task on Taco.
+
+![Complete or hide a task]({{ site.url }}/assets/images/completion-popover.png)
 
 ### Updating tasks: Sync
 
@@ -49,7 +53,7 @@ Click the Sync icon to tell Taco to update its data from your connected
 services. In 10-15 seconds, you'll see the updated information roll in.
 
 Taco automatically syncs roughly hourly while you're active and daily
-when you're not.  
+when you're not.
 
 ### Top
 
