@@ -8,8 +8,13 @@ order: 46
 
 To connect iCloud Reminders (also used for the iOS Reminders and OS X
 Reminders apps) with Taco, from the Connectors page, click "iCloud
-Reminders." Taco will present more specific instructions for making 
-reminder lists available to Taco.
+Reminders."
+
+Taco will present more specific instructions for 
+[sharing](http://support.apple.com/kb/PH12516) reminder lists with Taco.
+Provide Taco with the email address of your 
+[Apple ID](http://support.apple.com/kb/HT5625) (iCloud, App Store, and
+iTunes) account.
 
 # Behavior
 
