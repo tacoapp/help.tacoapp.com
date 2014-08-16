@@ -20,6 +20,12 @@ iTunes) account.
 
 Taco imports all reminders in the reminder list(s) you share with Taco.
 
+## Notes
+
+If you rename a list after sharing it with Taco, Taco will still show
+the old list name when hovering over a task. To update the list name,
+un-share and re-share it to `icloud@tacoapp.com`.
+
 ## Options
 
 If you set "Remind me on" dates for tasks that aren't relevant until
