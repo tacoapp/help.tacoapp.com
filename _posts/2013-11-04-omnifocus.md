@@ -13,12 +13,23 @@ with Taco, from the Connectors page, click "OmniFocus." Taco will
 present a settings page like the one below. Provide your Omni Sync
 Server credentials.
 
+## Account name
+
+Omni Sync Server relies on your account name (username), which is 
+usually *not* your email address. To find your Omni Sync Server account 
+name, visit [Manage Omni Sync Server](https://manage.sync.omnigroup.com/manage):
+
+![Omni Sync Server Account Name]({{ site.url }}/assets/images/connectors/omnifocus/account_name.png)
+
 # Behavior
 
-Taco imports all open tasks from across all contexts. For more granular
-control, consider [filters](../how-it-works/the-rest.html#filters) or a
-automated hourly export, as Taco supports for [Things](things.html) and
-[text files](text-file.html).
+Taco imports all active (started and not paused) tasks from across all 
+contexts. For more granular control, consider 
+[filters](../how-it-works/the-rest.html#filters). Taco can filter by
+project name, context name, inbox or flagged status, and more. For
+example:
+
+    "Important Project" OR "Home" OR "Flagged" OR "Inbox"
 
 ## Links
 
