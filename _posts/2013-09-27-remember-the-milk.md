@@ -12,25 +12,30 @@ To connect Remember The Milk with Taco, from the Connectors page, click
 "Remember The Milk." Taco will present a settings page like the one
 below.
 
-First, enable "[Private Addresses](http://www.rememberthemilk.com/help/?ctx=feeds.rss.privateaddress)" 
-in Remember The Milk.
+First, visit RTM's [General Settings](https://www.rememberthemilk.com/home). 
+Turn on "[Private Addresses](http://www.rememberthemilk.com/help/?ctx=feeds.rss.privateaddress)" 
+if it isn't already enabled:
 
-Second, obtain the "Atom URL" from your Remember The Milk "All Tasks"
-tab/list (or any other list). (Have an older RTM account with no "All
-Tasks" tab? Here's 
+![Remember The Milk Private Addresses setting]({{ site.url }}/assets/images/connectors/remember-the-milk/private-addresses.png)
+
+Second, obtain the "Atom URL" from your RTM "All Tasks" tab/list or any 
+other RTM list. (Have an older RTM account with no "All Tasks" tab? Here's 
 [how to create it](https://www.rememberthemilk.com/forums/help/10179/)).
 
-Once on the "All Tasks" list or the list you would like Taco to use,
-copy its Atom URL from the link shown in this screenshot:
+Once on the "All Tasks" list or the list you would like Taco to use, copy 
+its Atom URL from the link shown in the screenshot below.
+
+<a name="credentials"></a>
+**Important**: this link will end with `tok` followed by 50 or more random 
+letters. This is the API key and it allows Taco to obtain your tasks. When 
+you copy the URL, it should look like this (but with far more random letters 
+after the `?tok=`):
+
+    https://www.rememberthemilk.com/atom/bob.jones/1234/?tok=GgUGhn09t3Kz*3Qe
 
 ![Remember The Milk Atom/RSS URL]({{ site.url }}/assets/images/connectors/remember-the-milk/atom.png)
 
-After copying the URL, paste it into the Taco's Remember The Milk
-settings page. The URL will contain an API key, which enables Taco to
-obtain your tasks. For example:
-
-    https://www.rememberthemilk.com/atom/user.acct/1234567/?tok=a-very-long-code
-
+After copying the URL, paste it into the Taco's RTM settings settings page. 
 
 # Behavior
 
