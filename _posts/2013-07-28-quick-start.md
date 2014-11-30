@@ -70,6 +70,18 @@ last-used option.
 
 ![Hide sidebar]({{ site.url }}/assets/images/focus-mode.gif)
 
+### See task details
+
+To see additional information about most tasks, such as a project name,
+due date, status, or sender email address, hover over the text label of
+the task. You'll see a box like this:
+
+![Hover to see extra information]({{ site.url }}/assets/images/hover-attributes.png)
+
+These attributes are also [searchable](the-rest.html#find-as-you-type-search),
+like to see only tasks from a certain service or project within that 
+service.
+
 ### Can't act on a task? Hide it
 
 Often other people set priorities for us, or there's simply items you
