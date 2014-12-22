@@ -19,10 +19,21 @@ To connect GitHub Issues with Taco, from the Connectors page, click
 Taco imports up to 100 GitHub Issues which are assigned to you, from
 across all repos.
 
-Note that Taco has as little access as possible in order to see Issues.
-As shown in the permission screen above, it's still more access than we
-want. We have contacted GitHub to suggest an OAuth access [scope](http://developer.github.com/v3/oauth/#scopes) 
-which may only access Issues.
+### Access and private repos
+
+Taco has as little access as possible in order to see Issues. As shown in 
+the permission screen above, the absolute minimum access is still more access
+than we want. We have contacted GitHub to suggest an OAuth access 
+[scope](http://developer.github.com/v3/oauth/#scopes) which may only access 
+Issues, not code.
+
+If you absolutely cannot grant access to private repos, but still want
+to use Taco for Issues on public repos, follow the same instructions
+above. When you reach the `github.com` approval screen, edit the 
+`github.com` URL and change `scope=repo` to `scope=public_repo`
+(from [scopes](https://developer.github.com/v3/oauth/#scopes)).
+Access the modified URL with the other parameters unchanged. GitHub 
+will prompt you to grant access to only public repos.
 
 ## Keyboard shortcut
 
