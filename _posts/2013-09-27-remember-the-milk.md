@@ -12,21 +12,27 @@ To connect Remember The Milk with Taco, from the Connectors page, click
 "Remember The Milk." Taco will present a settings page like the one
 below.
 
+### Ensure Taco has access
+
 First, visit RTM's [General Settings](https://www.rememberthemilk.com/home). 
 Turn on "[Private Addresses](http://www.rememberthemilk.com/help/?ctx=feeds.rss.privateaddress)" 
 if it isn't already enabled:
 
 ![Remember The Milk Private Addresses setting]({{ site.url }}/assets/images/connectors/remember-the-milk/private-addresses.png)
 
+### Obtain URL
+
 Second, obtain the "Atom URL" from your RTM "All Tasks" tab/list or any 
 other RTM list. (Have an older RTM account with no "All Tasks" tab? Here's 
 [how to create it](https://www.rememberthemilk.com/forums/help/10179/)).
 
-Once on the "All Tasks" list or the list you would like Taco to use, copy 
+Once on the "All Tasks" list (or the list you would like Taco to use), copy 
 its Atom URL from the link shown in the screenshot below.
 
+#### About the Atom URL
+
 <a name="credentials"></a>
-**Important**: this link will end with `tok` followed by 50 or more random 
+**Important**: this URL will end with `tok` followed by 50 or more random 
 letters. This is the API key and it allows Taco to obtain your tasks. When 
 you copy the URL, it should look like this (but with far more random letters 
 after the `?tok=`):
@@ -35,7 +41,7 @@ after the `?tok=`):
 
 ![Remember The Milk Atom/RSS URL]({{ site.url }}/assets/images/connectors/remember-the-milk/atom.png)
 
-After copying the URL, paste it into the Taco's RTM settings settings page. 
+After copying the URL, paste it into the Taco's RTM settings page. 
 
 # Behavior
 
