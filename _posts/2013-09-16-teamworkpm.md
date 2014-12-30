@@ -17,6 +17,7 @@ Once you have the API key, provide it to Taco:
 
 ![Sync TeamworkPM issues via API]({{ site.url }}/assets/images/connectors/teamworkpm/settings.png)
 
+<a name="custom-domain"></a>
 ### Custom domain (like "projects.mycompany.com")
 
 Does your Teamwork site use a [custom domain](http://docs.teamwork.com/article/175-create-a-custom-domain-for-your-installation)
