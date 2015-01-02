@@ -89,7 +89,8 @@ can't actually make progress on right now (but aren't able to delete or
 complete). Clicking a task's checkbox can also be used to hide a task in
 Taco, removing it from Taco's typical view.
 
-To see hidden tasks, click the "Toggle Hidden Tasks" menu icon.
+To see hidden tasks, click the "Toggle Hidden Tasks" menu icon in the
+upper right corner. The icon looks like an eye.
 
 ### Print
 
