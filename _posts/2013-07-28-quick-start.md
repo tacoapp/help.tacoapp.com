@@ -129,13 +129,11 @@ a handful of sharp-looking backgrounds. Choose one on
 
 #### Custom theme
 
-To provide your own image, provide a URL. To choose a solid color
-instead of an image, provide a Web (RGB) color code (like from 
-[Color Scheme Designer](http://colorschemedesigner.com/)).
+To provide your own theme, provide the URL to an image of any size
+or choose a solid color.
 
-To disable distinctive backgrounds entirely, provide a neutral color
-like [gray](https://tacoapp.com/tasks?bgcolor=444444) (`444444`).
-
+To disable distinctive backgrounds entirely, choose a neutral color
+like white, gray, or black.
 
 Ready to geek out a bit? Keep reading [The Rest](the-rest.html).
 
