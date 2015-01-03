@@ -26,7 +26,7 @@ Remember The Milk creates an "All Tasks" list for you. Taco can use that
 list and import all of your incomplete tasks. 
 
 Alternatively, to import a different set of tasks, like only those 
-due prior to now, create an RTM [Smart List](https://www.rememberthemilk.com/help/?ctx=iphone.smartlists.addsmartlist) 
+due prior to now or only those in certain lists, create an RTM [Smart List](https://www.rememberthemilk.com/help/?ctx=iphone.smartlists.addsmartlist) 
 and point Taco at that list.
 
 Smart Lists can use any RTM search, like `dueBefore:now` or `list:"Work
