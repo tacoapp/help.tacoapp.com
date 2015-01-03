@@ -20,6 +20,19 @@ if it isn't already enabled:
 
 ![Remember The Milk Private Addresses setting]({{ site.url }}/assets/images/connectors/remember-the-milk/private-addresses.png)
 
+### Choose tasks (optional)
+
+Remember The Milk creates an "All Tasks" list for you. Taco can use that
+list and import all of your incomplete tasks. 
+
+Alternatively, to import a different set of tasks, like only those 
+due prior to now, create an RTM [Smart List](https://www.rememberthemilk.com/help/?ctx=iphone.smartlists.addsmartlist) 
+and point Taco at that list.
+
+Smart Lists can use any RTM search, like `dueBefore:now` or `list:"Work
+stuff"`. See [Smart List](https://www.rememberthemilk.com/help/?ctx=iphone.smartlists.addsmartlist) docs.
+Taco automatically ignores completed tasks
+
 ### Obtain URL
 
 Second, obtain the "Atom URL" from your RTM "All Tasks" tab/list or any 
@@ -45,12 +58,10 @@ After copying the URL, paste it into the Taco's RTM settings page.
 
 # Behavior
 
-Taco imports all tasks in the list which you chose (such as "All
-Tasks"). To import a different set of tasks, like only those due prior
-to now, create an RTM 
-[Smart List](https://www.rememberthemilk.com/help/?ctx=iphone.smartlists.addsmartlist) 
-and point Taco at that list. Smart Lists can use any RTM search,
-like `dueBefore:now`.
+Taco imports all incomplete tasks in the Remember The Milk list 
+which you chose (such as "All Tasks"). Since RTM lists can use 
+any RTM search, Taco can
+retrieve any set of tasks.
 
 ## Keyboard shortcut
 
