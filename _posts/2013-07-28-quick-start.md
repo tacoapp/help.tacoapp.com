@@ -73,14 +73,26 @@ last-used option.
 ### See task details
 
 To see additional information about most tasks, such as a project name,
-due date, status, or sender email address, hover over the text label of
-the task. You'll see a box like this:
+due date, status, or sender email address, click on the non-text area 
+surrounding the task text. You'll see a box like this:
 
-![Hover to see extra information]({{ site.url }}/assets/images/hover-attributes.png)
+![Click to see extra information]({{ site.url }}/assets/images/show-attributes.png)
 
 These attributes are also [searchable](the-rest.html#find-as-you-type-search),
 like to see only tasks from a certain service or project within that 
 service.
+
+### Edit task label
+
+While viewing the task details, click the task label to edit it to
+something more meaningful (or reset it back to the label received from the 
+service).
+
+For example, if an email task actually requires a different next action,
+change the task to say that. You can edit the same task repeatedly as 
+your next action changes.
+
+![Edit task label]({{ site.url }}/assets/images/edit-label.png)
 
 ### Can't act on a task? Hide it
 
