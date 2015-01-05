@@ -110,15 +110,14 @@ Create a PDF with all tasks, like to print, save, or email it.
 
 ### Email
 
-Send yourself an email containing "Up next" items (like the daily
+Send yourself an email containing "Up Next" items (like the daily
 punchlist). Taco can also send this every day or week; see 
-[Email Settings](https://tacoapp.com/connectors#email-notifications-settings).
+[Settings - Notifications][].
 
 
 ## Settings
 
-Visit [Settings](https://tacoapp.com/connectors) to add connectors or
-change preferences.
+Visit [Settings][Connectors] to add connectors or change preferences.
 
 ### Email summary
 
@@ -128,7 +127,7 @@ Mondays. We'd put a joke about
 [work-life balance](http://en.wikipedia.org/wiki/Work%E2%80%93life_balance#Consequences_of_an_Imbalance)
 here if we had one.
 
-To enable it, visit [Email Settings](https://tacoapp.com/connectors#email-notifications-settings).
+To enable it, visit [Settings - Notifications][].
 
 ![Email options]({{ site.url }}/assets/images/email-options.png)
 
@@ -137,7 +136,7 @@ To enable it, visit [Email Settings](https://tacoapp.com/connectors#email-notifi
 
 We want Taco to be an environment you love to work in, so Taco provides
 a handful of sharp-looking backgrounds. Choose one on
-[Theme Settings](https://tacoapp.com/connectors#themes-settings).
+[Settings - Theme][].
 
 #### Custom theme
 
@@ -150,4 +149,6 @@ like white, gray, or black.
 Ready to geek out a bit? Keep reading [The Rest](the-rest.html).
 
 [Connectors]: https://tacoapp.com/connectors
+[Settings - Theme]: https://tacoapp.com/theme
+[Settings - Notifications]: https://tacoapp.com/notifications
 [Filters]: the-rest.html#filters
