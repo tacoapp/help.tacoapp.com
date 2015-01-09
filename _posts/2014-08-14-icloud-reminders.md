@@ -41,4 +41,4 @@ default.
 ## Keyboard shortcut
 
 While using Taco, press the keyboard shortcut `g ic` (as in "go to
-iCloud") to open Instapaper in a new browser tab.
+iCloud") to open iCloud in a new browser tab.
