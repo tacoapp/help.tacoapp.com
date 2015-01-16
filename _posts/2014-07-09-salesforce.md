@@ -11,6 +11,11 @@ order: 88
 To connect Salesforce.com with Taco and manage cases, from the
 Connectors page, click "Salesforce."
 
+## Salesforce editions
+
+Only [these Salesforce editions/plans](https://help.salesforce.com/HTViewSolution?id=000005140&language=en_US) 
+have API access, which is what allows Taco to retrieve your tasks.
+
 ## Authorize access
 
 Salesforce will present a settings page like this one:
