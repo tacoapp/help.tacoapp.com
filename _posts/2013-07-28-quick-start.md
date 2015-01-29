@@ -49,11 +49,16 @@ A prompt will ask whether Taco should update the service
 
 ### Updating tasks: Sync
 
-Click the Sync icon to tell Taco to update its data from your connected
-services. In 10-15 seconds, you'll see the updated information roll in.
+Taco automatically syncs roughly hourly while you're actively using
+Taco and daily regardless.
 
-Taco automatically syncs roughly hourly while you're active and daily
-when you're not.
+To tell Taco to immediately update its data from your connected
+services, click the Sync/Refresh icon in the upper right corner:
+
+![Complete a task]({{ site.url }}/assets/images/sync-icon.png)
+
+In 10-15 seconds, you'll see the updated information roll in.
+
 
 ### Top
 
