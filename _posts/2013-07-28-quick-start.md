@@ -19,8 +19,8 @@ and then fetch your tasks:
 
 !["Connector activated. We're trying to retrieve tasks right now."]({{ site.url }}/assets/images/sync-message.png)
 
-Many connectors can filter tasks too, like to only retrieve certain
-projects. For details, see [Filters][] or each connector's help page.
+Many connectors can filter tasks too, like to only show certain projects
+or dates with certain due dates. For details, see [Filters][].
 
 
 ## Using Taco
@@ -74,6 +74,15 @@ To display "For Later" again, do the same thing. Taco remembers your
 last-used option.
 
 ![Hide sidebar]({{ site.url }}/assets/images/focus-mode.gif)
+
+### Fewer tasks
+
+Click the magnifying glass/search icon and choose projects, task lists, 
+statuses, and/or a due date:
+
+![Sidebar project/date selector]({{ site.url }}/assets/images/sidebar-project-date-selector.png)
+
+See [Filters][] for more.
 
 ### See task details
 
