@@ -22,7 +22,10 @@
               <li data-order="{{ page.order }}"><a href="{{ site.baseurl }}{{ page.url }}#complete">Mark complete</a></li>
 
               <li data-order="{{ page.order }}"><a href="{{ site.baseurl }}{{ page.url }}#refresh">Refresh data</a></li>
+            {elsif page.title == "The Rest" %}
               <li data-order="{{ page.order }}"><a href="{{ site.baseurl }}{{ page.url }}#themes">Add your logo</a></li>
+              <li data-order="{{ page.order }}"><a href="{{ site.baseurl }}{{ page.url }}#search">Search tasks</a></li>
+              <li data-order="{{ page.order }}"><a href="{{ site.baseurl }}{{ page.url }}#mobile">Phone/tablet use</a></li>
             {% else %}
               <li data-order="{{ page.order }}"><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
             {% endif %}
