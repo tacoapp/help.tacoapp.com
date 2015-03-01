@@ -13,10 +13,16 @@
                 <li class=nav-header>{{ label }}</li>
             {% endif %}
             {% if page.title == "Quick Start" %}
-              <li data-order="{{ page.order }}"><a href="{{ site.baseurl }}{{ page.url }}#ready-to-work?-just-drag-&-drop">Drag & drop</a></li>
-              <li data-order="{{ page.order }}"><a href="{{ site.baseurl }}{{ page.url }}#fewer-tasks">Filter by project, list, or due date</a></li>
-              <li data-order="{{ page.order }}"><a href="{{ site.baseurl }}{{ page.url }}#see-task-details">See details (project, due date)</a></li>
-              <li data-order="{{ page.order }}"><a href="{{ site.baseurl }}{{ page.url }}#edit-task-label">Edit task</a></li>    
+              <li data-order="{{ page.order }}"><a href="{{ site.baseurl }}{{ page.url }}#connectors">Connect services</a></li>
+              <li data-order="{{ page.order }}"><a href="{{ site.baseurl }}{{ page.url }}#prioritize">Prioritize</a></li>
+              <li data-order="{{ page.order }}"><a href="{{ site.baseurl }}{{ page.url }}#filter">Filter by project, list, or due date</a></li>
+
+              <li data-order="{{ page.order }}"><a href="{{ site.baseurl }}{{ page.url }}#details">See details</a></li>
+              <li data-order="{{ page.order }}"><a href="{{ site.baseurl }}{{ page.url }}#edit">Edit tasks</a></li>
+              <li data-order="{{ page.order }}"><a href="{{ site.baseurl }}{{ page.url }}#complete">Mark complete</a></li>
+
+              <li data-order="{{ page.order }}"><a href="{{ site.baseurl }}{{ page.url }}#refresh">Refresh data</a></li>
+              <li data-order="{{ page.order }}"><a href="{{ site.baseurl }}{{ page.url }}#themes">Add your logo</a></li>
             {% else %}
               <li data-order="{{ page.order }}"><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
             {% endif %}
