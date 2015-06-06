@@ -34,7 +34,8 @@ and/or a due date:
 
 ![Sidebar project/date selector]({{ site.url }}/assets/images/sidebar-project-date-selector.png)
 
-See [Filters][] for more.
+Taco automatically remembers your current view. To permanently exclude certain
+tasks, see [Filters][].
 
 
 <a name="details"></a>
