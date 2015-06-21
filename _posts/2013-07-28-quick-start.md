@@ -32,7 +32,7 @@ Just click a task and drag it from For Later to Up Next, or vice versa.
 To show specific project(s), list(s), status(es), and/or a due date, **click the
 magnifying glass icon**. You'll see this:
 
-![Sidebar project/date selector]({{ site.url }}/assets/images/instant-filtering.gif)
+![Sidebar project/date selector]({{ site.url }}/assets/images/sidebar-project-date-selector.png)
 
 Taco automatically remembers your current view. To permanently exclude certain
 tasks, see [Filters][].
