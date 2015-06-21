@@ -29,8 +29,8 @@ Just click a task and drag it from For Later to Up Next, or vice versa.
 <a name="filter"></a>
 ### Filter by project or due date
 
-Click the magnifying glass icon and choose projects, lists, statuses,
-and/or a due date:
+To show specific project(s), list(s), status(es), and/or a due date, **click the
+magnifying glass icon**. You'll see this:
 
 ![Sidebar project/date selector]({{ site.url }}/assets/images/instant-filtering.gif)
 
