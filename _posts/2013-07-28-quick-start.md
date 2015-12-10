@@ -47,9 +47,11 @@ surrounding the task text. You'll see a box like this:
 
 ![Click to see extra information]({{ site.url }}/assets/images/show-attributes.png)
 
-To show some of this information in the task label (so that clicking is
-not necessary), navigate to [Connectors][]. Click a given connector's "Settings"
-link and scroll to Task Label Format. It looks like this:
+<a name="label"></a>
+#### Customize task label
+
+No need to click - show key info in the task label. On [Connectors][], click a
+connector's "Settings" link and scroll to **Task Label Format**. It looks like this:
 
 ![Edit task label format]({{ site.url }}/assets/images/task-label-format.png)
 
