@@ -47,17 +47,17 @@ surrounding the task text. You'll see a box like this:
 
 ![Click to see extra information]({{ site.url }}/assets/images/show-attributes.png)
 
+These attributes are also [searchable](the-rest.html#find-as-you-type-search),
+like to see only tasks from a certain service or project within that
+service.
+
 <a name="label"></a>
-#### Customize task label
+#### Show details in task label
 
 No need to click - show key info in the task label. On [Connectors][], click a
 connector's "Settings" link and scroll to **Task Label Format**. It looks like this:
 
 ![Edit task label format]({{ site.url }}/assets/images/task-label-format.png)
-
-These attributes are also [searchable](the-rest.html#find-as-you-type-search),
-like to see only tasks from a certain service or project within that
-service.
 
 
 <a name="edit"></a>
