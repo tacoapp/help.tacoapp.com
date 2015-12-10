@@ -39,13 +39,19 @@ tasks, see [Filters][].
 
 
 <a name="details"></a>
-### See task details (project, due date)
+### See task details (project name, due date)
 
 To see additional information about most tasks, such as a project name,
 due date, task list, status, or sender email address, click on the non-text area
 surrounding the task text. You'll see a box like this:
 
 ![Click to see extra information]({{ site.url }}/assets/images/show-attributes.png)
+
+To show some of this information in the task label (so that clicking is
+not necessary), navigate to [Connectors][]. Click a given connector's "Settings"
+link and scroll to Task Label Format. It looks like this:
+
+![Edit task label format]({{ site.url }}/assets/images/task-label-format.png)
 
 These attributes are also [searchable](the-rest.html#find-as-you-type-search),
 like to see only tasks from a certain service or project within that
