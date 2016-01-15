@@ -27,7 +27,7 @@ Just click a task and drag it from For Later to Up Next, or vice versa.
 
 
 <a name="filter"></a>
-### Filter by project or due date
+### Filter by project, list, or due date
 
 **Click the gear icon** to show tasks related to specific project(s), list(s),
 status(es), and/or a due date. You'll see this:
@@ -52,16 +52,16 @@ like to see only tasks from a certain service or project within that
 service.
 
 <a name="label"></a>
-#### Show details in task label
+### Show details without clicking
 
-No need to click - show key info in the task label. On [Connectors][], click a
+Show key info in the task label - no need to click. On [Connectors][], click a
 connector's "Settings" link and scroll to **Task Label Format**. It looks like this:
 
 ![Edit task label format]({{ site.url }}/assets/images/task-label-format.png)
 
 
 <a name="edit"></a>
-### Edit a task
+### Edit a task label
 
 While viewing the task details, click the task label to edit it to
 something more meaningful (or reset it back to the label received from the
