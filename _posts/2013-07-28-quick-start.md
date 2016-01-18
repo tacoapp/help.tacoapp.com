@@ -19,6 +19,9 @@ and then fetch your tasks:
 
 !["Connector activated. We're trying to retrieve tasks right now."]({{ site.url }}/assets/images/sync-message.png)
 
+If you're brand new to Taco, check out [Why Taco exists](https://tacoapp.com/info/about)
+and how it helps finish the tasks you already have.
+
 
 <a name="prioritize"></a>
 ### Prioritize
