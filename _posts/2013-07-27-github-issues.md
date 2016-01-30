@@ -21,18 +21,25 @@ across all repos.
 
 ### Access and private repos
 
-Taco has as little access as possible in order to see Issues. As shown in 
+Taco has as little access as possible in order to see Issues. As shown in
 the permission screen above, the absolute minimum access is still more access
-than we want. We have contacted GitHub to suggest an OAuth access 
-[scope](http://developer.github.com/v3/oauth/#scopes) which may only access 
+than we want. We have contacted GitHub to suggest an OAuth access
+[scope](http://developer.github.com/v3/oauth/#scopes) which may only access
 Issues, not code.
+
+To see what Taco can currently access, visit [GitHub Applications](https://github.com/settings/applications)
+and click the "Taco" text title. This will show whether Taco can see
+both public and private repos as well as any organizations which have
+organization-wide restrictions.
+
+#### Only public repos
 
 If you absolutely cannot grant access to private repos, but still want
 to use Taco for Issues on public repos, follow the same instructions
-above. When you reach the `github.com` approval screen, edit the 
+above. When you reach the `github.com` approval screen, edit the
 `github.com` URL and change `scope=repo` to `scope=public_repo`
 (from [scopes](https://developer.github.com/v3/oauth/#scopes)).
-Access the modified URL with the other parameters unchanged. GitHub 
+Access the modified URL with the other parameters unchanged. GitHub
 will prompt you to grant access to only public repos.
 
 ## Keyboard shortcut
