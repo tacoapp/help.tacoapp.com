@@ -17,17 +17,17 @@ Once you have the API key, provide it to Taco:
 
 ![Sync TeamworkPM issues via API]({{ site.url }}/assets/images/connectors/teamworkpm/settings.png)
 
-<a name="custom-domain"></a>
 ### Custom domain (like "projects.mycompany.com")
+<a name="custom-domain"></a>
 
 Does your Teamwork site use a [custom domain](http://docs.teamwork.com/article/175-create-a-custom-domain-for-your-installation)
 like `clients.acmeanvils.com` or `projects.mycompany.com`?
 
-If so, it also has a corresponding name within `.teamwork.com` 
-(such as `acme.teamwork.com`). When configuring Taco, use the `acme` part. 
+If so, it also has a corresponding name within `.teamwork.com`
+(such as `acme.teamwork.com`). When configuring Taco, use the `acme` part.
 Not sure? Just ask us.
 
-For advanced users, this `nslookup` command will show your 
+For advanced users, this `nslookup` command will show your
 teamwork.com subdomain:
 
     nslookup -query=cname projects.mycompany.com

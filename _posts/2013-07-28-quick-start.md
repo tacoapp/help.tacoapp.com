@@ -6,8 +6,8 @@ date: 2013-07-28 06:55:27
 order: 0
 ---
 
-<a name="connectors"></a>
 ### Connect services
+<a name="connectors"></a>
 
 On [Connectors][], link the services you use. Takes about 10 seconds.
 
@@ -23,14 +23,14 @@ If you're brand new to Taco, check out [Why Taco exists](https://tacoapp.com/inf
 and how it helps finish the tasks you already have.
 
 
-<a name="prioritize"></a>
 ### Prioritize
+<a name="prioritize"></a>
 
 Just click a task and drag it from For Later to Up Next, or vice versa.
 
 
-<a name="filter"></a>
 ### Filter by project, list, or due date
+<a name="filter"></a>
 
 **Click the gear icon** to show tasks related to specific project(s), list(s),
 status(es), and/or a due date. You'll see this:
@@ -41,8 +41,8 @@ Taco automatically remembers your current view. To permanently exclude certain
 tasks, see [Filters][].
 
 
-<a name="details"></a>
 ### See task details (project name, due date)
+<a name="details"></a>
 
 To see additional information about most tasks, such as a project name,
 due date, task list, status, or sender email address, click on the non-text area
@@ -54,8 +54,8 @@ These attributes are also [searchable](the-rest.html#find-as-you-type-search),
 like to see only tasks from a certain service or project within that
 service.
 
-<a name="label"></a>
 ### Show details without clicking
+<a name="label"></a>
 
 Show key info in the task label - no need to click. On [Connectors][], click a
 connector's "Settings" link and scroll to **Task Label Format**. It looks like this:
@@ -63,8 +63,8 @@ connector's "Settings" link and scroll to **Task Label Format**. It looks like t
 ![Edit task label format]({{ site.url }}/assets/images/task-label-format.png)
 
 
-<a name="edit"></a>
 ### Edit a task label
+<a name="edit"></a>
 
 While viewing the task details, click the task label to edit it to
 something more meaningful (or reset it back to the label received from the
@@ -77,8 +77,8 @@ your next action changes.
 ![Edit task label]({{ site.url }}/assets/images/edit-label.png)
 
 
-<a name="complete"></a>
 ### Mark complete
+<a name="complete"></a>
 
 For many services, Taco can update the service when you finish a task.
 For example, Taco can archive or un-flag an email or check off a to-do
@@ -96,8 +96,8 @@ hide the task on Taco.
 ![Complete or hide a task]({{ site.url }}/assets/images/completion-popover.png)
 
 
-<a name="refresh"></a>
 ### Outdated data? Refresh
+<a name="refresh"></a>
 
 Taco automatically syncs with connected services:
 
@@ -112,8 +112,8 @@ Sync/Refresh icon in the upper right corner:
 In 10-15 seconds, you'll see current information.
 
 
-<a name="hide-sidebar"></a>
 ### Focus! Hide the sidebar
+<a name="hide-sidebar"></a>
 
 Once you've chosen 1-3 things to do, hide "For Later." Either hit `\`
 (backslash) or click the arrow at the far left edge of the screen.
@@ -124,15 +124,15 @@ last-used option.
 ![Hide sidebar]({{ site.url }}/assets/images/focus-mode.gif)
 
 
-<a name="top"></a>
 ### Top
+<a name="top"></a>
 
 Did one task suddenly become much more important than it was? Click
 "Top" to move it to the top of "Up next."
 
 
-<a name="hide"></a>
 ### Can't act on a task? Hide it
+<a name="hide"></a>
 
 Often other people set priorities for us, or there's simply items you
 can't actually make progress on right now (but aren't able to delete or
@@ -169,8 +169,8 @@ To enable it, visit [Settings - Notifications][].
 
 ![Email options]({{ site.url }}/assets/images/email-options.png)
 
-<a name="themes"></a>
 ### Themes
+<a name="themes"></a>
 
 We want Taco to be an environment you love to work in, so Taco provides
 a handful of sharp-looking backgrounds. Choose one on
