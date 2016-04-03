@@ -10,7 +10,7 @@ order: 60
 
 To connect Pivotal Tracker with Taco, from the Connectors page, click
 "Pivotal Tracker." Taco will present a settings page like the one below.
-Obtain an API key from your Pivotal Tracker [Profile](https://www.pivotaltracker.com/profile) 
+Obtain an API key from your Pivotal Tracker [Profile](https://www.pivotaltracker.com/profile)
 page (accessible via the drop-down menu under your name in the top right corner).
 
 ![Sync Pivotal Tracker issues via API]({{ site.url }}/assets/images/connectors/pivotal-tracker/settings.png)
@@ -18,20 +18,21 @@ page (accessible via the drop-down menu under your name in the top right corner)
 
 # Behavior
 
+Taco can use any [Pivotal Tracker search filter](https://www.pivotaltracker.com/help/faq#howcanasearchberefined).
+
 By default, Taco imports all stories which match this filter (from
 across all projects):
 
-    state:unstarted
+    state:started,unstarted type:feature,bug,chore
 
 This filter is appropriate for many Pivotal Tracker environments.
 Depending on your workflow, this filter may be better:
 
     mywork:joe
 
-where `joe` is your Pivotal Tracker username.
-
-You may also define your own filter, as shown in the screenshot above.
-See [Pivotal Tracker Help](https://www.pivotaltracker.com/help/faq#howcanasearchberefined).
+where `joe` is your Pivotal Tracker username. Tracker search queries can match
+nearly any set of tasks. See
+[Pivotal Tracker Help](https://www.pivotaltracker.com/help/faq#howcanasearchberefined).
 
 ## Keyboard shortcut
 
