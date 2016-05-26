@@ -6,7 +6,9 @@ date: 2014-08-14 10:50:02
 order: 46
 ---
 
-*Important*: iCloud Reminders are currently unavailable due to a change in
+## Temporarily unavailable
+
+**Important**: iCloud Reminders are currently unavailable due to a change in
 Apple's iCloud security policy. The Taco team is optimistic that Taco can still
 work with iCloud Reminders at some point, but we want to see iCloud become
 more stable (or ideally, provide a real API) before releasing and supporting
