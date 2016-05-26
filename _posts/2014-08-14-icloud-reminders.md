@@ -6,13 +6,21 @@ date: 2014-08-14 10:50:02
 order: 46
 ---
 
+*Important*: iCloud Reminders are currently unavailable due to a change in
+Apple's iCloud security policy. The Taco team is optimistic that Taco can still
+work with iCloud Reminders at some point, but we want to see iCloud become
+more stable (or ideally, provide a real API) before releasing and supporting
+another integration.
+
+--
+
 To connect iCloud Reminders (also used for the iOS Reminders and OS X
 Reminders apps) with Taco, from the Connectors page, click "iCloud
 Reminders."
 
-Taco will present more specific instructions for 
+Taco will present more specific instructions for
 [sharing](http://support.apple.com/kb/PH12516) reminder lists with Taco.
-Provide Taco with the email address of your 
+Provide Taco with the email address of your
 [Apple ID](http://support.apple.com/kb/HT5625) (iCloud, App Store, and
 iTunes) account.
 
@@ -30,7 +38,7 @@ un-share and re-share it to `icloud@tacoapp.com`.
 
 If you set "Remind me on" dates for tasks that aren't relevant until
 then, Taco ignore tasks with "Remind me on" dates set (until the day
-before the reminder). 
+before the reminder).
 
 Also, Taco can ignore recurring tasks until the day before the next
 occurrence.
