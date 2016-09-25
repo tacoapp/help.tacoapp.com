@@ -26,9 +26,6 @@ baseurl: ''
 # Dates are not included in permalinks
 permalink: none
 
-# Syntax highlighting
-pygments: true
-
 # Since these are pages, it doesn't really matter
 future: true
 
