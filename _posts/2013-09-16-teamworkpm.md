@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Teamwork Projects"
+title: "Teamwork"
 category: connectors
 date: 2013-09-16 16:15:02
 order: 100
@@ -8,19 +8,19 @@ order: 100
 
 # Setup
 
-To connect Teamwork Projects with Taco, from the Connectors
+To connect Teamwork with Taco, from the Connectors
 page, click "Teamwork Projects." Taco will present a settings page like the one
-below. On the Teamwork Projects "My Details" page, enable the API and obtain
-your API token per [Teamwork Projects Support](https://developer.teamwork.com/projects/finding-your-url-and-api-key/api-key-and-url).
+below. On the Teamwork "My Details" page, enable the API and obtain
+your API token per [Teamwork Support](https://developer.teamwork.com/projects/finding-your-url-and-api-key/api-key-and-url).
 
 Once you have the API key, provide it to Taco:
 
-![Sync Teamwork Projects issues via API]({{ site.url }}/assets/images/connectors/teamworkpm/settings.png)
+![Sync Teamwork issues via API]({{ site.url }}/assets/images/connectors/teamworkpm/settings.png)
 
 ### Custom domain (like "projects.mycompany.com")
 <a name="custom-domain"></a>
 
-Does your Teamwork Projects site use a [custom domain](http://docs.teamwork.com/article/175-create-a-custom-domain-for-your-installation)
+Does your Teamwork site use a [custom domain](http://docs.teamwork.com/article/175-create-a-custom-domain-for-your-installation)
 like `clients.acmeanvils.com` or `projects.mycompany.com`?
 
 If so, it also has a corresponding name within `.teamwork.com`
@@ -42,4 +42,4 @@ Taco imports all non-completed tasks which are assigned to you, from across all 
 ## Keyboard shortcut
 
 While using Taco, press the keyboard shortcut `g te` (as in "go to
-Teamwork") to open Teamwork Projects in a new browser tab.
+Teamwork") to open Teamwork in a new browser tab.
